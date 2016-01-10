@@ -1,0 +1,28 @@
+name: Toby Harriman
+favicon: null
+layout_spectrum: 0.6008593260776252
+typography_spectrum: 0.44575876742601395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.44873669859953225
+  lightness: 0.7761508321855217
+  saturation: 0.5003737076185644
+  rhythmicContrast: 0.40817909012548625
+purpose: []
